@@ -1,0 +1,36 @@
+.aside-content{
+    background-color: rgb(245, 245, 245);
+    width: 20%;
+    float: left;
+    height: 100vh;
+    text-align: center;
+    font-family: monospace; 
+     
+}
+
+
+.fotoPerfil{
+    margin-top: 50px;
+    width: 50%;
+    border: 2px solid rgb(28, 172, 193);
+}
+.logoLink{
+    width: 10%;
+    margin-right: 5px;
+}
+.nome{
+    margin-bottom: -10px;
+    font-size: 30px;
+}
+
+.profissao{
+    font-size: 12px;
+}
+
+.subtitulo{
+    color: rgb(28, 172, 193);
+    font-size: 20px;
+    border-bottom:   2px solid ;
+    width: 50%;
+    margin: auto;
+}
