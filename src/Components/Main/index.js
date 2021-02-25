@@ -1,7 +1,10 @@
 import React, { Children } from 'react'
+import './style.css';
 
 export default function Main(){
 return(
-  <h1>{pop.Children}</h1>
+  <div className="main-content">
+    <h1>Hello Jhonny</h1>
+  </div>
 );
 }
